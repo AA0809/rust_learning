@@ -12,3 +12,13 @@
 
 # 04/06
 - Started guessing game coding
+
+# 07/06
+- Finished guessing game
+    - learned about crates
+    - variables and references
+    - match
+    - loop
+    - parsing
+    - user input
+    - Enums
