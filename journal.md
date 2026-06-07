@@ -22,3 +22,4 @@
     - parsing
     - user input
     - Enums
+- Learned Variables (variables project)
